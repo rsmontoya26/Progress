@@ -28,4 +28,4 @@ Created My first Billing Alert Today and learned to create a new SNS Topic. I ca
 
 ✍️ Show that you shared your process on Twitter or LinkedIn
 
-[link](link)
+[link](https://twitter.com/rsmontoya26/status/1298221312159166467)
