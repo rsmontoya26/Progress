@@ -1,7 +1,7 @@
 <!-- This template removes the micro tutorial for a quicker post and removes images for a full template check out the 000-DAY-ARTICLE-LONG-TEMPLATE.MD-->
 
 **Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+![cloudwatch](https://user-images.githubusercontent.com/70133819/91168462-444ef000-e708-11ea-80d7-c94ae2040d03.png)
 
 # Cloud Watch
 
